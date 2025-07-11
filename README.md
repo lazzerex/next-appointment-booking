@@ -2,6 +2,10 @@
 
 A modern, responsive appointment booking system built with Next.js and React. This template provides a complete 4-step booking flow that can be easily customized for medical appointments, consultations, or any service-based bookings.
 
+<img width="1128" height="552" alt="image" src="https://github.com/user-attachments/assets/d708271d-9175-4f94-9761-3056ad4d587e" />
+
+<img width="1395" height="906" alt="image" src="https://github.com/user-attachments/assets/3eae8713-8831-4a9d-b662-ff39fd3f1356" />
+
 ## Features
 
 - **4-Step Booking Process**: Intuitive step-by-step flow
